@@ -1,0 +1,32 @@
+{
+  "Users": [
+    {
+      "Username": "joao victor",
+      "PasswordHash": "1C4nHNCHKl5O6E/ia0TIM/NPgRHIifHTmkZNAH01rLA=",
+      "PasswordSalt": "sYD58c4e0eVdDzLIKJMQ8A=="
+    },
+    {
+      "Username": "fodasse",
+      "PasswordHash": "wVWcFQ9pzujcyvWTo7i6A5veslZOe/FKSpm/Q/d45Gw=",
+      "PasswordSalt": "Pftv/VeDjXPqWq1DyB9KyQ=="
+    }
+  ],
+  "Teams": [
+    {
+      "Username": "joao victor",
+      "Pokemons": [
+        "teste",
+        "voltorb",
+        "magerna",
+        "otaria",
+        "ursaring"
+      ]
+    },
+    {
+      "Username": "fodasse",
+      "Pokemons": [
+        "teste"
+      ]
+    }
+  ]
+}
